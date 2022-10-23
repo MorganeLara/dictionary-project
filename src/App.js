@@ -13,7 +13,7 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by SheCodes</small>
+          <small>Coded by Morgane Lara 🇫🇷 </small>
         </footer>
       </div>
     </div>
