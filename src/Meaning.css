@@ -1,0 +1,10 @@
+.Meaning h5 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.Meaning .example {
+  font-size: 14px;
+  color: rgba(85, 44, 251, 0.7);
+  font-style: italic;
+}
