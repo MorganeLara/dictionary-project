@@ -3,7 +3,7 @@ body {
 }
 
 a {
-  color: rgb(116, 183, 255);
+  color: rgba(85, 44, 251, 0.7);
 }
 .App {
   max-width: 960px;
